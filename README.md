@@ -1,6 +1,5 @@
-### Hi there my name is Matt Martindale 👋
-
-**matt-martindale/matt-martindale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello! my name is Matt Martindale 👋
+***
 
 Here are some ideas to get you started:
 
