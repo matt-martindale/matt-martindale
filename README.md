@@ -1,5 +1,4 @@
 ## Hello! my name is Matt Martindale 👋
-***
 
 Here are some ideas to get you started:
 
