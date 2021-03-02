@@ -2,6 +2,8 @@
 My name is Matt Martindale, I'm an iOS Developer living in the greater Salt Lake City area. I'm currently studying at Lambda School.
 I love to create, whether that's from my leatherwork 🐮 or making apps 📱.
 
+Swift | SwiftUI | Python | Core Data | Unit Testing | UI Testing
+
 Here are some awesome projects you should check out:
 
 <img src="https://github.com/matt-martindale/HitTips/blob/master/Images/HitTipsLogo.png" alt="Hit Tips Logo" width="30px"/> &nbsp; ***[HitTips](https://github.com/matt-martindale/HitTips)*** \- A sarcastic tipping calculator that critiques your tip.
