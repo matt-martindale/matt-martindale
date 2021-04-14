@@ -4,7 +4,7 @@ I love to create, whether that's from my leatherwork 🐮 or making apps 📱.
 
 Swift | SwiftUI | Python | Core Data | RESTful API | Unit Testing | UI Testing | Firebase/Firestore
 
-Here are some awesome projects you should check out:
+### Here are some awesome projects you should check out:
 
 <img src="https://github.com/matt-martindale/AtomicAge/blob/master/Images/atomic_age.png" alt="Atomic Age Logo" width="30px"/> &nbsp; ***[NFC Treasure Hunt](https://github.com/matt-martindale/ScavengerHunt)*** \- Use CoreNFC framework to allow Players to write clues onto NFC tags that will lead them to the final treasure!
 
