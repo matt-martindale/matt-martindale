@@ -18,7 +18,7 @@ Swift | SwiftUI | Python | Core Data | RESTful API | Unit Testing | UI Testing |
 
 <img src="https://github.com/matt-martindale/Mood-Tracker/blob/master/imagesForReadMe/moody_me_app.png" alt="Moody Me Logo" width="30px"/> &nbsp; ***[Moody Me](https://github.com/matt-martindale/Mood-Tracker)*** \- Group project. A mood tracking app to log what your overall mood was for the day. With the ability to add a note and the handy graph to give you a quick glance as to what mood you feel most.
 
-*Swift / MVC / API/Networking Calls / Graphs CocoaPod*
+*Swift | MVC | API/Networking Calls | Graphs CocoaPod*
 
 ---
 Contact me * matt.martindale88@gmail.com *
