@@ -8,7 +8,7 @@ Swift | SwiftUI | Objective-C | Python | Core Data | RESTful API | Unit Testing 
 
 ### Here are some awesome projects you should check out:
 
-<img src="https://github.com/matt-martindale/AtomicAge/blob/master/Images/atomic_age.png" alt="Atomic Age Logo" width="30px"/> &nbsp; ***[NFC Treasure Hunt](https://github.com/matt-martindale/ScavengerHunt)*** \- Using NFC tags and Apple's CoreNFC framework - Create and play Treasure Hunts by scanning tags and following their clues to find all the Markers!
+<img src="https://github.com/matt-martindale/ScavengerHunt/blob/main/images/logo.png" alt="Treasure Hunt Logo" width="30px"/> &nbsp; ***[NFC Treasure Hunt](https://github.com/matt-martindale/ScavengerHunt)*** \- Using NFC tags and Apple's CoreNFC framework - Create and play Treasure Hunts by scanning tags and following their clues to find all the Markers!
 
 *Swift | CoreNFC | Firebase | Firebase-Authentication | Firestore | Doubly Linked-List*
 
