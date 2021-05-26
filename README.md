@@ -2,7 +2,7 @@
 My name is Matt Martindale, I'm an iOS Developer living in the greater Salt Lake City area. A graduate of Lambda School Inc.
 I love to create, whether that's from my leatherwork 🐮 or making apps 📱.
 
-Swift | SwiftUI | Objective-C | Python | Core Data | RESTful API | Unit Testing | UI Testing | Firebase/Firestore
+Swift | SwiftUI | Objective-C | Python | Core Data | RESTful API | Unit Testing | UI Testing | Firebase/Firestore | Github
 
 ---
 
